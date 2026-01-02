@@ -22,7 +22,10 @@ mobile-app/ios/Runner/GoogleService-Info.plist.original
 .env*
 .secrets/
 credentials/
-firebase_config.dart  # si tiene keys hardcodeadas
+
+# Firebase config files
+lib/firebase_options.dart
+lib/firebase_config.dart
 
 # Keys y certificados
 *.keystore
@@ -138,7 +141,6 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-<<<<<<< HEAD
 !/dev/ci/**/Gemfile.lock
 
 # Flutter / Dart
@@ -170,6 +172,3 @@ Thumbs.db
 *.env
 serviceAccountKey*.json
 secret*.json
-=======
-!/dev/ci/**/Gemfile.lock
->>>>>>> 9db4d067fa4bd3cfde495056470a03eb35501ee7
