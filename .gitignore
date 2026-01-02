@@ -11,6 +11,7 @@
 # Android
 android/app/google-services.json
 android/app/google-services.json.original
+firebase.json
 
 # iOS
 ios/Runner/GoogleService-Info.plist
@@ -138,3 +139,33 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# Android
+**/android/local.properties
+**/app/google-services.json
+android/key.properties
+*.jks
+*.keystore
+.gradle/
+**/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+serviceAccountKey*.json
+secret*.json
