@@ -40,26 +40,25 @@ IoT-temperature-humidity-monitor/
 ## 🚀 Quick Start
 
 ```bash
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/CarlosM1024/IoT-temperature-humidity-monitor.git
 cd IoT-temperature-humidity-monitor
 
-#2. Hardware Setup
+### 2. Hardware Setup
 Prepare the following components to build the device:
-```
-|Component|Quantity|Purpose|
-|ESP32 Dev Board|1|Main Microcontroller & WiFi gateway|
-|DHT11 Sensor|1|Temperature and Humidity sensing|
-|Jumper Wires|3|"Circuit connections (VCC, GND, Data)"|
-|Micro USB Cable|1|Power supply and programming|
 
-````bash
-# 3. Deployment Steps
+| Component | Quantity | Purpose |
+| :--- | :---: | :--- |
+| **ESP32 Dev Board** | 1 | Main Microcontroller & WiFi gateway |
+| **DHT11 Sensor** | 1 | Temperature and Humidity sensing |
+| **Jumper Wires** | 3 | Circuit connections (VCC, GND, Data) |
+| **Micro USB Cable** | 1 | Power supply and programming |
+
+### 3. Deployment Steps
 The project must be configured in two stages. Please follow the specific guides in each folder:
 
-Firmware: Go to /firmware/README.md to configure your WiFi credentials, Firebase API keys, and flash the ESP32.
-
-Mobile App: Go to /mobile-app/README.md to set up the Flutter environment and link the app to your Firebase project.
+* **Firmware:** Go to [`/firmware/README.md`](./firmware/README.md) to configure your WiFi credentials, Firebase API keys, and flash the ESP32.
+* **Mobile App:** Go to [`/mobile-app/README.md`](./mobile-app/README.md) to set up the Flutter environment and link the app to your Firebase project.
 ````
 
 
