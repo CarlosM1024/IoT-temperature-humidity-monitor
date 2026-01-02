@@ -7,7 +7,28 @@
 .buildlog/
 .history
 
+# ========== FIREBASE CREDENCIALES ==========
+# Android
+android/app/google-services.json
+android/app/google-services.json.original
 
+# iOS
+ios/Runner/GoogleService-Info.plist
+ios/Runner/GoogleService-Info.plist.original
+
+# Configuración sensible
+*.env
+.env*
+.secrets/
+credentials/
+firebase_config.dart  # si tiene keys hardcodeadas
+
+# Keys y certificados
+*.keystore
+*.jks
+*.p12
+*.cer
+*.pem
 
 # Flutter repo-specific
 /bin/cache/
