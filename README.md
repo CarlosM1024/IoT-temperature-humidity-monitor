@@ -43,6 +43,7 @@ IoT-temperature-humidity-monitor/
 ### 1. Clone the repository
 git clone https://github.com/CarlosM1024/IoT-temperature-humidity-monitor.git
 cd IoT-temperature-humidity-monitor
+```
 
 ### 2. Hardware Setup
 Prepare the following components to build the device:
@@ -59,7 +60,6 @@ The project must be configured in two stages. Please follow the specific guides 
 
 * **Firmware:** Go to [`/firmware/README.md`](./firmware/README.md) to configure your WiFi credentials, Firebase API keys, and flash the ESP32.
 * **Mobile App:** Go to [`/mobile-app/README.md`](./mobile-app/README.md) to set up the Flutter environment and link the app to your Firebase project.
-````
 
 
 ## 📄 License
