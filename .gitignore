@@ -7,6 +7,7 @@
 .buildlog/
 .history
 
+<<<<<<< HEAD
 # ========== FIREBASE CREDENCIALES ==========
 # Android
 android/app/google-services.json
@@ -30,6 +31,9 @@ firebase_config.dart  # si tiene keys hardcodeadas
 *.p12
 *.cer
 *.pem
+=======
+
+>>>>>>> 9db4d067fa4bd3cfde495056470a03eb35501ee7
 
 # Flutter repo-specific
 /bin/cache/
@@ -138,6 +142,7 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+<<<<<<< HEAD
 !/dev/ci/**/Gemfile.lock
 
 # Flutter / Dart
@@ -169,3 +174,6 @@ Thumbs.db
 *.env
 serviceAccountKey*.json
 secret*.json
+=======
+!/dev/ci/**/Gemfile.lock
+>>>>>>> 9db4d067fa4bd3cfde495056470a03eb35501ee7
