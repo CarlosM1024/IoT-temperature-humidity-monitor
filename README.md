@@ -32,6 +32,7 @@ The data flows from the physical environment to your pocket through the followin
 IoT-temperature-humidity-monitor/
 ├── 📂 firmware/      # ESP32 C++ code (PlatformIO/Arduino)
 ├── 📂 mobile-app/    # Flutter application source code
+├── .gitignore        # Git ignore rules
 ├── LICENSE           # MIT License
 └── README.md         # General documentation
 ```
