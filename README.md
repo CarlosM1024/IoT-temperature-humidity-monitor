@@ -39,8 +39,8 @@ IoT-temperature-humidity-monitor/
 
 ## 🚀 Quick Start
 
-```bash
 ### 1. Clone the repository
+```bash
 git clone https://github.com/CarlosM1024/IoT-temperature-humidity-monitor.git
 cd IoT-temperature-humidity-monitor
 ```
