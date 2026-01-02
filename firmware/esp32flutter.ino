@@ -6,10 +6,10 @@
 #define DHTTYPE DHT11
 DHT dht (DHTPIN, DHTTYPE);
 
-#define WIFI_SSID "INFINITUM73C2_2.4"
-#define WIFI_PASSWORD "z4wVUBhwyR"
-#define FIREBASE_AUTH "https://espn-72bf1-default-rtdb.firebaseio.com/"
-#define FIREBASE_HOST "oNQ5vb5kmBqCR5nfAXN75UiBX2cYOvAByfbDym6C"
+#define WIFI_SSID "YOUR_SSID"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
+#define FIREBASE_HOST "your-project.firebaseio.com"
+#define FIREBASE_AUTH "your_database_secret"
 
 
 void setup() {
