@@ -66,10 +66,16 @@ The project must be configured in two stages. Please follow the specific guides 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Please make sure your code follows the existing style and includes appropriate comments.
+
+## 👤 Author
+
+**Carlos Antonio Martinez Miranda**
+
+GitHub: [@CarlosM1024](https://github.com/CarlosM1024)
+
 
 1.  Fork the repository.
 2.  Create a new branch for your feature or bug fix.
