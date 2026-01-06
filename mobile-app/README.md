@@ -28,3 +28,11 @@ flutter pub get
 # Run the application
 flutter run
 ```
+
+## 🙏 Credits and Acknowledgments
+
+### Primary  Inspiration
+This project was initially inspired by Flutter tutorials from:
+
+**Channel Name:** PapayasConCrema 
+**Channel Link:** [PapayasConCrema](https://www.youtube.com/@papayasconcrema333) 
