@@ -1,39 +1,21 @@
-# 📱 Flutter Mobile Application
+# tarea_esp32
 
-The frontend of the system, designed to provide a smooth user experience for monitoring environmental data.
+A new Flutter project.
 
-## ✨ Features
-* **Real-time Sync**: Uses `Firebase Animated List` or `Streams` for instant updates.
-* **Clean UI**: Minimalist design focused on readability.
-* **Global Access**: Since it uses Firebase, you can check your sensor from any network.
+## Getting Started
 
-## 🚀 Getting Started
+This project is a starting point for a Flutter application.
 
-### Prerequisites
-* Flutter SDK installed ([Guide](https://docs.flutter.dev/get-started/install)).
-* An Android/iOS emulator or physical device.
+A few resources to get you started if this is your first Flutter project:
 
-### Setup Firebase
-1.  Create a project in the [Firebase Console](https://console.firebase.google.com/).
-2.  Add an Android/iOS app to your Firebase project.
-3.  Download the `google-services.json` (Android) or `GoogleService-Info.plist` (iOS) and place them in the correct directories:
-    * `android/app/`
-    * `ios/Runner/`
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### Running the App
-```bash
-# Install dependencies
-flutter pub get
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-# Run the application
-flutter run
-```
+## Prof
 
-## 🙏 Credits and Acknowledgments
-
-### Primary  Inspiration
-This project was initially inspired by Flutter tutorials from:
-
-**Channel Name:** PapayasConCrema
-
-**Channel Link:** [PapayasConCrema](https://www.youtube.com/@papayasconcrema333) 
+Para cambiar el nombre del package:
+flutter pub run change_app_package_name:main com.carlosmiranda.pushyoutube

@@ -1,4 +1,4 @@
-name: tarea_esp32
+name: Tarea02_ESP32
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -40,6 +40,7 @@ dependencies:
   firebase_database: ^11.1.6
   google_sign_in: ^6.2.2
   rflutter_alert: ^2.0.7
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
