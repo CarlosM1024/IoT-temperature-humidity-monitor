@@ -29,7 +29,7 @@ The app follows a modular structure:
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="assets/screenshots/image2.png" alt="Captura de pantalla2"/>
+    <img src="assets/screenshots/image2.png" width="250" alt="Captura de pantalla2"/>
 </p>
 
 ## 🚀 Getting Started

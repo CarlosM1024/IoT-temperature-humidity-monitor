@@ -32,7 +32,7 @@ The data flows from the physical environment to your pocket through the followin
 
 <p align="center">
     <img src="mobile-app/assets/screenshots/image.png" alt="Captura de pantalla1"/>
-    <img src="mobile-app/assets/screenshots/image2.png" alt="Captura de pantalla2"/>
+    <img src="mobile-app/assets/screenshots/image2.png" width="250" alt="Captura de pantalla2"/>
 </p>
 
 ## 📁 Project Structure
